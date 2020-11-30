@@ -109,5 +109,5 @@ class CopyLeaks:
             
         else : 
             return "Not Generated"
-        return submittedIDs
+
         
